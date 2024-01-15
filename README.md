@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+#### This will be my online portfolio.
+#### Come here later, and something special will appear!
+
 <!--
 **Hanzhezhang2023/Hanzhezhang2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
